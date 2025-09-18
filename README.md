@@ -1,4 +1,4 @@
-<img width="541" height="495" alt="远程调试二维码" src="https://github.com/user-attachments/assets/7c694430-a17f-4b7b-bbb1-4dc5a49df1eb" />## 源码获取（地球：a1719101159）；（ssm+vue/jsp和springboot+vue/html是一杯蜜雪冰城柠檬水，ssm/springboot+uniapp小程序是2杯柠檬水，springcloud+vue代码是3杯柠檬水）
+## 源码获取（地球：a1719101159）；（ssm+vue/jsp和springboot+vue/html是一杯蜜雪冰城柠檬水，ssm/springboot+uniapp小程序是2杯柠檬水，springcloud+vue代码是3杯柠檬水）
 ### 校园二手交易小程序✔Java✔SpringBoot✔Vue3✔前后端分离✔可提供远程调试【前后端源码 + SQL脚本 + 软件环境安装包】
 ## 项目采用技术：
 架构: B/S、MVC
